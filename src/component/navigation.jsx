@@ -3,7 +3,7 @@ const Navigation = () => {
 
         <nav className="container">
             <div className='logo'>
-                <img src="public/img/nike1.jpg" alt="images not found " width={90} height={50} />
+                <img src="nike1.jpg" alt="images not found " width={90} height={50} />
             </div>
             <div>
                 <ul>
