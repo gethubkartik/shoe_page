@@ -39,7 +39,7 @@ button {
 .hero{
   display: flex;
   align-items: center;
-  height: 530px;
+  height: 545px;
   margin-top: 50px;
 }
 .hero-content{
@@ -51,6 +51,8 @@ button {
   font-weight:  800;
   line-height: 102px;
   font-size: 108px;
+  width: 700px;
+  
 
 
 }
