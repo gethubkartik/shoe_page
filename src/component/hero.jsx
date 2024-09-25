@@ -18,7 +18,7 @@ const HeroSection = () => {
 
             </div>
             <div className="hero-img">
-                <img src="/img/shoe_image.png" alt="image not found" width={500} height={520}/>
+                <img src="/img/shoe_image.png" alt="image not found" />
             </div>
 
 
