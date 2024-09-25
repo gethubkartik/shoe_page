@@ -39,7 +39,7 @@ button {
 .hero{
   display: flex;
   align-items: center;
-  height: calc(100vh - 70px);
+  height: 530px;
   margin-top: 50px;
 }
 .hero-content{
