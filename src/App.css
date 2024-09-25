@@ -76,3 +76,7 @@ button {
   font-size: 14px;
   margin-bottom: 8px;
 }
+.hero-img{
+  width: 50%;
+  height: 500px;
+}
