@@ -12,13 +12,13 @@ const HeroSection = () => {
                 <div className="shopping">Also Available On
 
                     <div className="img-icon">
-                        <img src="public/img/shops.png" alt="shop logo" />
+                        <img src="/img/shops.png" alt="shop logo" />
                     </div>
                 </div>
 
             </div>
             <div className="hero-img">
-                <img src="public/img/shoe_image.png" alt="image not found" width={520} height={467}/>
+                <img src="/img/shoe_image.png" alt="image not found" width={520} height={467}/>
             </div>
 
 
